@@ -38,7 +38,7 @@ services:
       MYSQL_USER: zabbix
       MYSQL_PASSWORD: zabbix
       ZBX_SERVER_HOST: zabbix-server
-      PHP_TZ: Europe/Kiev
+      PHP_TZ: Europe/Ulyanovsk
     ports:
       - '80:80'
       - '443:443'
